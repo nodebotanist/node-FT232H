@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "serialport": "^4.0.4",
     "usb": "^1.6.3"
   }
 }
